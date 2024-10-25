@@ -3,6 +3,7 @@
   "type": "module",
   "devDependencies": {
     "vite": "^5.4.10",
+    "vite-plugin-rails": "^0.5.0",
     "vite-plugin-ruby": "^5.1.0"
   }
 }
