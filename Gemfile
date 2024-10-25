@@ -23,6 +23,8 @@ gem "jbuilder"
 
 gem "vite_rails"
 
+gem 'turbo-rails', '~> 2.0', '>= 2.0.11'
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 
